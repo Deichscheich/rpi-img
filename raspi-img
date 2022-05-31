@@ -15,7 +15,8 @@
 #  Decompresses .img, .xz, .gz and .zip files and copies them to the SD card.
 #  The file system should be expanded using raspi-config.
 #
-#  Initial script, backup part and all math magic by abracadabricx,
+#  Initial script, backup part and all math magic by abracadabricx
+#  (https://bobbyromeo.com/raspberry-pi/backup-clone-raspberry-pi-sd-card/#comment-4233),
 #  restore part and compression support by Kalle Friedrich
 #------------------------------------------------------------------------------
 #  "THE BEER-WARE LICENSE" (Revision 42):
